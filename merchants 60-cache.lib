@@ -179,11 +179,11 @@ X ROW 2 -50 -150 100 U 0 0 1 1 P
 ENDDRAW
 ENDDEF
 #
-# keyboard_parts_SW_PUSH
+# merchants-60-rescue_SW_PUSH-keyboard_parts
 #
-DEF keyboard_parts_SW_PUSH SW 0 40 N N 1 F N
+DEF merchants-60-rescue_SW_PUSH-keyboard_parts SW 0 40 N N 1 F N
 F0 "SW" 150 110 50 H V C CNN
-F1 "keyboard_parts_SW_PUSH" 0 -80 50 H V C CNN
+F1 "merchants-60-rescue_SW_PUSH-keyboard_parts" 0 -80 50 H V C CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
 DRAW

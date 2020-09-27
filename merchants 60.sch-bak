@@ -2761,10 +2761,6 @@ row1
 Text GLabel 7550 3100 2    50   Input ~ 0
 row2
 Text GLabel 7550 2600 2    50   Input ~ 0
-row3
-Text GLabel 7550 2500 2    50   Input ~ 0
-row4
-Text GLabel 7550 4000 2    50   Input ~ 0
 row5
 Connection ~ 6850 5400
 Connection ~ 6950 1800
@@ -2991,8 +2987,6 @@ Text GLabel 7550 3800 2    50   Input ~ 0
 col14
 Text GLabel 7550 3900 2    50   Input ~ 0
 col15
-Text GLabel 7550 4500 2    50   Input ~ 0
-col5
 Text GLabel 7550 4600 2    50   Input ~ 0
 col4
 Text GLabel 7550 3300 2    50   Input ~ 0
@@ -3007,4 +3001,10 @@ Text GLabel 7550 2100 2    50   Input ~ 0
 col6
 Text GLabel 7550 4900 2    50   Input ~ 0
 col1
+Text GLabel 7550 4000 2    50   Input ~ 0
+row3
+Text GLabel 7550 2500 2    50   Input ~ 0
+row4
+Text GLabel 7550 4500 2    50   Input ~ 0
+col5
 $EndSCHEMATC
