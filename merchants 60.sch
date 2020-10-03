@@ -2754,13 +2754,13 @@ Text GLabel 16300 1600 1    50   Input ~ 0
 col14
 Text GLabel 16750 1600 1    50   Input ~ 0
 col15
-Text GLabel 7550 2700 2    50   Input ~ 0
+Text GLabel 7550 2400 2    50   Input ~ 0
 row0
-Text GLabel 7550 3000 2    50   Input ~ 0
+Text GLabel 7550 3300 2    50   Input ~ 0
 row1
-Text GLabel 7550 3100 2    50   Input ~ 0
+Text GLabel 7550 3800 2    50   Input ~ 0
 row2
-Text GLabel 7550 2600 2    50   Input ~ 0
+Text GLabel 7550 2300 2    50   Input ~ 0
 row5
 Connection ~ 6850 5400
 Connection ~ 6950 1800
@@ -2796,13 +2796,13 @@ F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega
 	1    6950 3600
 	1    0    0    -1  
 $EndComp
-Text GLabel 7550 5000 2    50   Input ~ 0
-col0
-Text GLabel 7550 4800 2    50   Input ~ 0
-col2
-Text GLabel 7550 4700 2    50   Input ~ 0
-col3
 Text GLabel 7550 3400 2    50   Input ~ 0
+col0
+Text GLabel 7550 3600 2    50   Input ~ 0
+col2
+Text GLabel 7550 4500 2    50   Input ~ 0
+col3
+Text GLabel 7550 2700 2    50   Input ~ 0
 col11
 Wire Wire Line
 	10500 3900 10950 3900
@@ -2979,32 +2979,32 @@ F 3 "" H 5200 2800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Connection ~ 5200 2800
-Text GLabel 7550 3500 2    50   Input ~ 0
+Text GLabel 7550 2600 2    50   Input ~ 0
 col12
-Text GLabel 7550 3600 2    50   Input ~ 0
+Text GLabel 7550 2500 2    50   Input ~ 0
 col13
-Text GLabel 7550 3800 2    50   Input ~ 0
+Text GLabel 7550 4000 2    50   Input ~ 0
 col14
 Text GLabel 7550 3900 2    50   Input ~ 0
 col15
 Text GLabel 7550 4600 2    50   Input ~ 0
 col4
-Text GLabel 7550 3300 2    50   Input ~ 0
-col10
-Text GLabel 7550 2400 2    50   Input ~ 0
-col9
-Text GLabel 7550 2300 2    50   Input ~ 0
+Text GLabel 7550 5000 2    50   Input ~ 0
 col8
-Text GLabel 7550 2200 2    50   Input ~ 0
-col7
-Text GLabel 7550 2100 2    50   Input ~ 0
-col6
 Text GLabel 7550 4900 2    50   Input ~ 0
+col7
+Text GLabel 7550 4800 2    50   Input ~ 0
+col6
+Text GLabel 7550 3500 2    50   Input ~ 0
 col1
-Text GLabel 7550 4000 2    50   Input ~ 0
+Text GLabel 7550 2100 2    50   Input ~ 0
 row3
-Text GLabel 7550 2500 2    50   Input ~ 0
+Text GLabel 7550 2200 2    50   Input ~ 0
 row4
-Text GLabel 7550 4500 2    50   Input ~ 0
+Text GLabel 7550 4700 2    50   Input ~ 0
 col5
+Text GLabel 7550 3000 2    50   Input ~ 0
+col10
+Text GLabel 7550 3100 2    50   Input ~ 0
+col9
 $EndSCHEMATC

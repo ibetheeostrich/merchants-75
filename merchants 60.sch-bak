@@ -220,7 +220,7 @@ Connection ~ 5600 2650
 Wire Wire Line
 	5600 2650 5600 2400
 $Comp
-L keyboard_parts:SW_PUSH SW1
+L merchants-60-rescue:SW_PUSH-keyboard_parts SW1
 U 1 1 5F720C2E
 P 5950 2100
 F 0 "SW1" H 5950 2355 50  0000 C CNN
