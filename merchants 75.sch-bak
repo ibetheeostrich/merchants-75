@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:merchants 60-cache
 EELAYER 30 0
 EELAYER END
 $Descr A0 46811 33110
@@ -218,6 +219,21 @@ Wire Wire Line
 Connection ~ 5600 2650
 Wire Wire Line
 	5600 2650 5600 2400
+$Comp
+L merchants-60-rescue:SW_PUSH-keyboard_parts SW1
+U 1 1 5F720C2E
+P 5950 2100
+F 0 "SW1" H 5950 2355 50  0000 C CNN
+F 1 "SW_PUSH" H 5950 2264 50  0000 C CNN
+F 2 "random-keyboard-parts:SKQG-1155865" H 5950 2100 60  0001 C CNN
+F 3 "" H 5950 2100 60  0000 C CNN
+	1    5950 2100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5600 2100 5650 2100
+Wire Wire Line
+	6250 2100 6300 2100
 Wire Wire Line
 	6300 1850 6300 2100
 Connection ~ 6300 2100
@@ -2991,19 +3007,4 @@ Text GLabel 7550 3000 2    50   Input ~ 0
 col10
 Text GLabel 7550 3100 2    50   Input ~ 0
 col9
-$Comp
-L Switch:SW_Push SW?
-U 1 1 5FDD10B4
-P 5950 2100
-F 0 "SW?" H 5950 2385 50  0000 C CNN
-F 1 "SW_Push" H 5950 2294 50  0000 C CNN
-F 2 "" H 5950 2300 50  0001 C CNN
-F 3 "~" H 5950 2300 50  0001 C CNN
-	1    5950 2100
-	1    0    0    -1  
-$EndComp
-Wire Wire Line
-	5600 2100 5750 2100
-Wire Wire Line
-	6150 2100 6300 2100
 $EndSCHEMATC
